@@ -1,0 +1,8 @@
+Dev tools usages
+
+40-1: Module overview, Dev tool overview, settings, shortcut keys
+*Browser console e kono data or value set korle reload dewar por normally toh seta chole jay, but preserve log use kore browser console er value compare kora jay reload er porew.
+*Log XMLHttpRequests onk guli api call korar por kon api theeke data ashtesy ar konta theke ashtesy na seta bujhar jonne eita use korte hoy
+*auto complete is usefull when doing a project
+*show rulers -pixle perfect er jonne use hoy
+*shortcut is important
